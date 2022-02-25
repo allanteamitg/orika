@@ -1,16 +1,14 @@
 [![Build Status](https://secure.travis-ci.org/orika-mapper/orika.png)](http://travis-ci.org/orika-mapper/orika)
-[![Join the chat at https://gitter.im/orika-mapper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/orika-mapper/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![GitHub site](https://img.shields.io/badge/GitHub-site-blue.svg)](http://orika-mapper.github.io/orika-docs/)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/ma.glasnost.orika/orika-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/ma.glasnost.orika/orika-core)
 [![Javadocs](http://www.javadoc.io/badge/ma.glasnost.orika/orika-core.svg)](http://www.javadoc.io/doc/ma.glasnost.orika/orika-core)
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-brightgreen.svg)](https://github.com/orika-mapper/orika/blob/master/LICENSE)
 
 Orika !
 -----------------------------------------------------------------------
 
-**NEW** We are pleased to announce the release of Orika **1.6.0** ! _This version is available on Maven central repository_ 
+**NEW** We are pleased to announce the fork release of Orika-TeamITG **1.6.0** ! _This version is available on Maven central repository_ 
 
-This is a fork of the v1.6.0 master branch of Orika created solely for the purposes of getting a fix to the issue that causes Orika to be incompatible with Java 16 and beyond.
+This is an unmaintained fork of the v1.6.0 master branch of Orika created solely for the purposes of getting a fix to the issue that causes Orika to be incompatible with Java 16 and beyond.
 
 If/when the owners of the original Orika ever release v1.6.0, please revert back to using that version rather than this one.
 
