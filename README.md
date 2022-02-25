@@ -8,7 +8,11 @@
 Orika !
 -----------------------------------------------------------------------
 
-**NEW** We are pleased to announce the release of Orika **1.5.4** ! _This version is available on Maven central repository_ 
+**NEW** We are pleased to announce the release of Orika **1.6.0** ! _This version is available on Maven central repository_ 
+
+This is a fork of the v1.6.0 master branch of Orika created solely for the purposes of getting a fix to the issue that causes Orika to be incompatible with Java 16 and beyond.
+
+If/when the owners of the original Orika ever release v1.6.0, please revert back to using that version rather than this one.
 
 What?
 =====
